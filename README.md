@@ -31,7 +31,7 @@ This project analyzes employee attrition risks to predict burnout levels using m
 - Scikit-learn
 
 ## 📁 Repository Structure
-- `employee_burnout_analysis.csv` – Dataset used for analysis
+- `employee_burnout_analysis.xlsx` – Dataset used for analysis
 - `Employee_Burnout_Prediction_Analysis.ipynb` – Notebook containing the full analysis and modeling
 - `README.md` – Project documentation
 
